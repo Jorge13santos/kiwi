@@ -2,8 +2,8 @@
 
 <image schemaversion="6.8" name="Leap-15.1_appliance">
     <description type="system">
-        <author>Marcus Schaefer</author>
-        <contact>ms@suse.de</contact>
+        <author>Jorge Santos</author>
+        <contact>jorge.ti10@</contact>
         <specification>
             Leap 15.1 Appliance, is a small text based image
         </specification>
